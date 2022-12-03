@@ -1,4 +1,4 @@
-# MechaCar Statistical Analysis
+# MechaCar_Statistical_Analysis
 Statisitical analysis of automobile performance with R
 
 ## Overview
